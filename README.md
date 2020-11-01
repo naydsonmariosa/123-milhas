@@ -27,9 +27,9 @@ http://127.0.0.1:8000/flights
 
    - O comando acima obtém a resposta final dos grupos de voos.
 
-[Laravel Docs]: https://laravel.com/docs/8.x/installation
-[php]: https://www.php.net/docs.php
-[123 Milhas]: https://123milhas.com/
+[Laravel Docs](https://laravel.com/docs/8.x/installation)
+[php](https://www.php.net/docs.php)
+[123 Milhas](https://123milhas.com)
 
 
 
