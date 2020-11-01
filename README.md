@@ -10,12 +10,24 @@ Este é um projeto proposto para obter a respota de vôos da 123 Milhas, de form
 
     - Realize o clone ou download do fonte
     - Acesse a pasta raiz do projeto
-Opções para execução:
+    - Execute os comandos:
+
+```bash
+   composer install
+```    
+
+```bash
+   npm install
+```    
+ou
+```bash
+   yarn
+```    
+    
+Opções para execução do app:
 ```bash
     php artisan serve        
 ```
-Acesse o site:
-    - http://127.0.0.1:8000
 
 ou:
 Insira a pasta do projeto em um servidor apache(www) e execute o projeto no caminho configurado pelo seu server.
